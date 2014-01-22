@@ -1,0 +1,6 @@
+library:The Walking Dead
+comicid:31
+hash:465039cc2f7d7dc3e67556b4d5e2babee3c1300730787126
+path:/The Walking Dead #118.cbr
+numpages:25
+coverPage:1
